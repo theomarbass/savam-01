@@ -17,6 +17,7 @@
   "dependencies": {
     "@types/express": "^5.0.6",
     "@types/morgan": "^1.9.10",
+    "axios": "^1.13.2",
     "bcryptjs": "^3.0.3",
     "cors": "^2.8.5",
     "express": "^5.2.1",
